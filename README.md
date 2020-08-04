@@ -7,7 +7,7 @@ Here, I'm using Recurrent neural network :
 Recurrent neural network is like not doing anything from scratch, same with our understanding of each word based on the previous words.
 We have some memory saved and if some words related to the memory comes up then we use the saved memory to understand the words (memory can be called as Vocubalary).
 
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcolah.github.io%2Fposts%2F2015-08-Understanding-LSTMs%2F&psig=AOvVaw2riCsmLKdrahaUIwf-jvbJ&ust=1596636221096000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDYzM7bgesCFQAAAAAdAAAAABAD">
 
 # PREPARING THE DATA
 Here I'm using TorchText, TorchText is a library that makes :
