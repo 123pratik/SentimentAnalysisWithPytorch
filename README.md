@@ -25,3 +25,9 @@ loss function
 
 The loss function here is binary cross entropy, 
 The BCEWithLogitsLoss criterion carries out both the sigmoid and the binary cross entropy steps.
+
+<img src = "charts/Section-1-Panel-0-tjtppywk.png width = 100 height = 50">
+<img src = "charts/Section-1-Panel-1-gjwyiwdgb.png width = 100 height = 50">
+<img src = "charts/Section-1-Panel-2-qldtutsu.png width = 100 height = 50">
+<img src = "charts/Section-1-Panel-3-lclwzpwtu.png width = 100 height = 50">
+<img src = "charts/Section-1-Panel-4-ncf22sl6r.png width = 100 height = 50">
