@@ -31,3 +31,7 @@ The BCEWithLogitsLoss criterion carries out both the sigmoid and the binary cros
 <img src = "charts/Section-1-Panel-2-qldtutsu.png width = 100 height = 50">
 <img src = "charts/Section-1-Panel-3-lclwzpwtu.png width = 100 height = 50">
 <img src = "charts/Section-1-Panel-4-ncf22sl6r.png width = 100 height = 50">
+
+Tried Wandb for graphs, these are some images of the accuracy and loss for the range of epochs.
+https://app.wandb.ai/pratikraut_/text_classification_project?workspace=user-pratikraut_
+You can visit this links.
